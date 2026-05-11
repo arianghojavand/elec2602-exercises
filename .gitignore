@@ -1,6 +1,7 @@
 # Ignore simulation/output artifacts
 *.vcd
 sim
+l3sim
 *.out
 *.log
 
